@@ -9,8 +9,11 @@
     <description>聚合服务</description>
     <packaging>pom</packaging>
     <modules>
-        <module>clothesmall-order</module>
-    <module>clothesmall-product</module>
-        <module>clothesmall-user</module>
+        <module>clothes-order</module>
+        <module>clothes-product</module>
+        <module>clothes-user</module>
+        <module>clothesmall-common</module>
+        <module>clothes-mall</module>
+        <module>vueblog-java</module>
     </modules>
 </project>
